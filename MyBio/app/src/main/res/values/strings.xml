@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Bio</string>
+    <string name="sign_up"><u>Sign Up</u></string>
+    <string name="log_in"><u>Log In</u></string>
+</resources>
